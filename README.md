@@ -15,3 +15,33 @@ A command-line Python tool for analyzing stock market data with real-time ticker
    ```bash
    git clone https://github.com/purelmnz/StockAnalyzerFinal.git
    cd StockAnalyzerFinal
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install pandas yfinance
+   ```
+
+## Usage
+
+Run the program from the project directory:
+
+```bash
+python stock_analyzer.py
+```
+
+### Main menu
+
+- `1` – Scan a ticker (e.g., `AAPL`, `TSLA`, `QQQ`)
+- `2` – View and manage your watchlist
+- `3` – Exit the program and print the final watchlist
+
+## Technologies
+
+- Python 3.x
+- pandas
+- yfinance
+
+## License
+
+MIT
